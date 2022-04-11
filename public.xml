@@ -7,7 +7,7 @@
     <plugin name="MaterialSkin" version="2.9.3" minTarget="7.9.0" maxTarget="*">
       <title lang="EN">Material Skin</title>
       <desc lang="EN">Material themed skin, suitable for mobile use.</desc>
-      <url>https://gitee.com/viso123/lms-material/releases/download/2.9.3/lms-material-2.9.3.zip</url>
+      <url>https://gitee.com/viso123/lms-material/attach_files/1024353/download/lms-material-2.9.3.zip</url>
       <sha>1a0514577093647adfb4ff8c7f71c608830e14f9</sha>
       <creator>Craig Drummond</creator>
     </plugin>
